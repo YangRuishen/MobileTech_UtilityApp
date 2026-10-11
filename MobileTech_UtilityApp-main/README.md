@@ -11,6 +11,3 @@ A simple Android weather app showing current conditions at a glance.
 - Jetpack Compose + Material Design 3
 - MVVM architecture: ViewModel / Repository / manual dependency injection (ServiceLocator)
 - Networking: Retrofit + Gson, Open-Meteo API (https://open-meteo.com)
-
-## Screenshots
-See report appendix.
